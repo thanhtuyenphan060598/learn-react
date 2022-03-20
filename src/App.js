@@ -9,7 +9,6 @@ function App() {
         <p>
           Tuyen
         </p>
-
       </header>
     </div>
   );
